@@ -101,7 +101,7 @@ RChain and node_modules are included in this project to make it user-friendly to
     npm run server
     ```
 
-10. Input `localhost:8080` for all virtual machines with your browser, and you can see a input box and two buttons `GetInfo` and `SetInfo`.
+10. Input `localhost:8080` for all virtual machines with your browser, and you can see an input box and two buttons `GetInfo` and `SetInfo`.
 
 11. Press `GetInfo` to fetch data from RChain and show it in the input box, press `SetInfo` to write data to RChain. Debug messages are shown in the console.
 
